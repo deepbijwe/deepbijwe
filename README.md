@@ -1,224 +1,133 @@
-<h1 align="center">Deep Bijwe 👋</h1>
-
-<h3 align="center">Cloud & DevOps Intern — AWS · Docker · Kubernetes · Terraform · Jenkins</h3>
+<h1 align="center">Deep Bijwe</h1>
+<h3 align="center">Cloud & DevOps Engineer — AWS · Kubernetes · Terraform · Jenkins · DevSecOps</h3>
 
 <p align="center">
-  <a href="https://github.com/deepbijwe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/deep-bijwe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/">
-    <img src="https://img.shields.io/badge/Credly-Badges-FF6C0C?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
+  <a href="https://deepbijwe.in"><img src="https://img.shields.io/badge/Portfolio-deepbijwe.in-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/deep-bijwe"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/deep-bijwe"><img src="https://img.shields.io/badge/Credly-Badges-FF6C0C?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepbijwe&label=Profile%20Views&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=deepbijwe&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* ☁️ **Cloud & DevOps Intern at Hisan Labs Private Limited**
-* 🎓 B.E. in Electronics & Telecommunication Engineering
-* 🛠️ Hands-on experience with **AWS, Docker, Kubernetes, Terraform and Jenkins**
-* 🔄 Building and working with **CI/CD pipelines**
-* 🐳 Containerizing applications using **Docker**
-* ☸️ Deploying applications on **Kubernetes and Amazon EKS**
-* 🏗️ Practicing Infrastructure as Code using **Terraform**
-* 🔐 Learning and implementing **DevSecOps tools** such as SonarQube, Trivy and OWASP Dependency-Check
-* 📊 Working with **CloudWatch and Datadog** for monitoring and application logs
-* 🌱 Currently learning **GitHub Actions, Argo CD, Prometheus and Grafana**
-* 📍 Nagpur, Maharashtra, India
+- 🔧 Cloud & DevOps Intern at **Hisan Labs Private Limited** (since Jan 2026)
+- ☁️ Completed Cloud DevOps Engineering training at **Cloudblitz** (Jan–Jun 2026)
+- 🎓 B.E. in Electronics and Telecommunication — Sant Gadge Baba Amravati University
+- 📚 AWS Certified Cloud Practitioner (CLF-C02) — coursework complete, exam upcoming
+- 🌱 Currently expanding into **Azure**, coming from an AWS-first background
+- 🛠️ I build complete DevSecOps pipelines end to end — infra, security scanning, and deployment — and document each one as a step-by-step README
+- 📍 Pune, Maharashtra, India
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category                       | Tools                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cloud**                      | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)                                                                                                                                                                                                                               |
-| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white) ![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white) |
-| **Infrastructure as Code**     | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square\&logo=terraform\&logoColor=white)                                                                                                                                                                                                                    |
-| **CI/CD**                      | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)                                                                                                                    |
-| **DevSecOps**                  | ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square\&logo=sonarqube\&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square\&logo=aquasecurity\&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square\&logo=owasp\&logoColor=white)       |
-| **Monitoring**                 | ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square\&logo=datadog\&logoColor=white)                                                                                                         |
-| **Languages & Frameworks**     | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=black)         |
-| **Version Control**            | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)                                                                                                                                |
-| **OS & Scripting**             | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square\&logo=gnubash\&logoColor=white)                                                                                                                             |
+| Category | Tools |
+|---|---|
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) |
+| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white) |
+| **CI/CD & DevSecOps** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white) |
+| **Languages & Frameworks** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Database & Monitoring** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Flagship Project — Med-ERP Microservices: Full DevSecOps CI/CD on AWS EKS
 
-### 🏥 Medical ERP — Microservices & DevSecOps
+**[github.com/deepbijwe/Med-ERP-Microservices- DevSecOps-Project](https://github.com/deepbijwe/Full-Stack-Microservice-ERP-DevSecOps-Jenkins-Project.git)**
 
-A medical ERP application built using a **microservices architecture** and deployed using AWS, Docker, Kubernetes and Jenkins.
+A B2B medical ERP platform built as three independent Java/Spring Boot microservices, deployed through a fully automated, security-gated CI/CD pipeline to a production-style AWS EKS cluster.
 
-**Technologies:**
+**Architecture**
+- **Backend:** `order-service`, `user-service`, `product-service` — Java + Spring Boot, each with its own MongoDB Atlas database (`order_db`, `product_db`, `user_db`)
+- **Frontend:** React SPA, hosted on S3 static website hosting behind CloudFront (custom domain via Route 53)
+- **Infra:** EKS cluster + S3, provisioned entirely through a dedicated Terraform pipeline
+- **Ingress:** NGINX Ingress Controller (Helm-installed) routing to Kubernetes Services for each microservice
+- **Registry:** Amazon ECR for container images
 
-`AWS` `EKS` `Docker` `Kubernetes` `Jenkins` `Terraform` `MongoDB Atlas` `Spring Boot` `React`
+**Backend DevSecOps Pipeline (Jenkins)**
 
-### 🏗️ Architecture
-
-```text
-                    GitHub
-                       │
-                  Webhook Trigger
-                       │
-                       ▼
-                    Jenkins
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-      SonarQube       OWASP       Trivy
-          │        Dependency       │
-          │          Check          │
-          └────────────┼────────────┘
-                       │
-                  Docker Build
-                       │
-                       ▼
-                  Amazon ECR
-                       │
-                       ▼
-                 Amazon EKS
-                       │
-              NGINX Ingress
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-    Order Service User Service Product Service
-          │            │            │
-          ▼            ▼            ▼
-       MongoDB      MongoDB      MongoDB
-        Atlas         Atlas         Atlas
+```
+mermaid
+graph LR
+    A[Git Checkout] --> B[Unit Tests]
+    B --> C[Maven Build]
+    C --> D[SonarQube Analysis]
+    D --> E[Quality Gate]
+    E --> F[OWASP Dependency Check]
+    F --> G[Trivy FS Scan]
+    G --> H[Docker Build]
+    H --> I[Trivy Image Scan]
+    I --> J[Push to Amazon ECR]
+    J --> K[Configure kubeconfig]
+    K --> L[Install NGINX Ingress]
+    L --> M[Deploy to EKS]
 ```
 
-### 🔄 CI/CD Pipeline
+| Stage | What it does |
+|---|---|
+| SonarQube Analysis + Quality Gate | Static code analysis for bugs, code smells and vulnerabilities before anything is built |
+| OWASP Dependency Check | Scans Maven dependencies against the NVD database for known CVEs |
+| Trivy FS Scan → Trivy Image Scan | Filesystem scan pre-build, then a full container image scan post-build |
+| ECR Push → EKS Deploy | Versioned image push, followed by rolling deployment to the `med-erp` namespace |
 
-```text
-GitHub
-   │
-   ▼
-Webhook
-   │
-   ▼
-Jenkins
-   │
-   ├── Checkout
-   ├── Build & Test
-   ├── SonarQube Analysis
-   ├── Quality Gate
-   ├── OWASP Dependency Check
-   ├── Trivy Filesystem Scan
-   ├── Docker Build
-   ├── Trivy Image Scan
-   ├── Push Image to Amazon ECR
-   └── Deploy to Amazon EKS
-```
+**Infra Pipeline (separate Jenkins job, Terraform):**
+`Checkout → Init/Validate → Plan → Manual Approval → Apply` — provisions the EKS cluster, node groups, and S3 bucket independently from the app pipeline.
 
-### 🔐 DevSecOps
+**Frontend Pipeline:**
+`Code Pull → npm install/build → S3 Sync → CloudFront Invalidation`
 
-* **SonarQube** for code quality and security analysis
-* **OWASP Dependency-Check** for dependency vulnerabilities
-* **Trivy** for filesystem and container image scanning
-* Security checks are included as part of the Jenkins pipeline
+**Engineering highlights**
+- Three independently deployable microservices, each with isolated data and env-based configuration
+- Security scanning gated at four points in the pipeline (SAST, dependency, filesystem, image) rather than bolted on at the end
+- Resolved real production-style issues along the way: a 503/CORS failure traced to missing Kubernetes Services behind the Ingress, and rolling-deploy capacity limits on a single-node group fixed by scaling the node group rather than starving pod availability
+- Full three-tier stack (infra, backend, frontend, ingress) verified working end to end, including live registration/auth flow through the deployed frontend
 
 ---
 
-## ☁️ AWS & Terraform Projects
+## 🚀 Other Projects
 
-Hands-on AWS projects and Infrastructure-as-Code practice using Terraform.
+#### ✈️ Flight Reservation Platform (Three-Tier, Terraform + EKS)
+Terraform-provisioned infra (S3 + EKS + RDS), a Spring Boot backend deployed via Jenkins to EKS, and a React frontend synced to S3. Verified end to end with live data persistence in RDS.
 
-### Projects include:
+#### 🔧 [Jenkins CI/CD Pipelines](https://github.com/deepbijwe/Jenkins-Projects)
+A collection of Jenkins pipelines: Maven builds, SonarQube quality gates, Docker-based build agents, Trivy image scanning, and automated deployments to EKS — including a Node.js → Docker Hub → EKS pipeline triggered by GitHub webhooks.
 
-* VPC, subnets and route tables
-* Internet Gateway and NAT Gateway
-* EC2 provisioning
-* Application Load Balancer
-* Auto Scaling Groups
-* Security Groups
-* Amazon EKS
-* Amazon ECR
-* S3
-* Terraform modules
-* Terraform remote state
-* Multi-tier application infrastructure
-
-🔗 [View Terraform Projects](https://github.com/deepbijwe/Terraform-projets)
+#### ☁️ [AWS Projects](https://github.com/deepbijwe/AWS-projects)
+Hands-on AWS practicals documented with architecture diagrams: EC2 provisioning with Terraform, multi-environment workspaces with S3 remote backend, modular EKS clusters, Kubernetes Ingress path-based routing, EBS CSI StatefulSets, and a 3-tier Dockerized app.
 
 ---
 
-## 🔄 Jenkins Projects
+## 🏅 Certifications
 
-Practical CI/CD pipelines created using Jenkins.
-
-### Includes:
-
-* GitHub webhook integration
-* Maven and Node.js builds
-* Docker image creation
-* Docker Hub / Amazon ECR integration
-* SonarQube analysis
-* Trivy security scanning
-* Kubernetes deployment
-* Amazon EKS deployment
-
-🔗 [View Jenkins Projects](https://github.com/deepbijwe/Jenkins-Projects)
-
----
-
-## 📚 Currently Learning
-
-```text
-Kubernetes
-     ↓
-GitHub Actions
-     ↓
-Argo CD
-     ↓
-Prometheus & Grafana
-     ↓
-AWS Observability
-     ↓
-DevSecOps
-```
-
----
-
-## 🏅 Certifications & Badges
-
-* 🏆 **AWS Cloud Quest — Cloud Practitioner**
-* 🤖 **AWS Cloud Quest — Generative AI Practitioner**
+- **AWS Cloud Quest: Cloud Practitioner** — [View Badge](https://www.credly.com/badges/780d14f3-80ef-477e-9cea-66addfaa0d5e/public_url)
+- **AWS Cloud Quest: Generative AI** — [View Badge](https://www.credly.com/badges/39c95932-aaa1-4ad3-95a6-eb2ebb511a1b/public_url)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepbijwe&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=deepbijwe&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepbijwe&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=deepbijwe&theme=dark&hide_border=true" alt="GitHub streak" height="165"/>
 </p>
+
+> If a stats card above doesn't render, it's usually the `github-readme-stats` service being rate-limited or briefly down — refreshing the page or waiting a few minutes fixes it. If it stays broken, deploy your own instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel and swap the URL in.
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/deepbijwe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/deep-bijwe">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/deep-bijwe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://deepbijwe.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <b>Keep Learning • Keep Building • Keep Earning 🚀</b>
-</p>
+<p align="center"><i>Every project above ships with a step-by-step README — check the repos for the full build and troubleshooting log.</i></p>
