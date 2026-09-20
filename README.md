@@ -1,4 +1,4 @@
-<h1 align="center">Deep Bijwe</h1>
+<h1 align="center">Deep Bijwee</h1>
 <h3 align="center">Cloud & DevOps Engineer — AWS · Kubernetes · Terraform · Jenkins · DevSecOps</h3>
 
 <p align="center">
