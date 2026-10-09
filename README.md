@@ -15,8 +15,8 @@
 
 ## 👨‍💻 About Me
 
-- 🔧 Cloud & DevOps Intern at **Hisan Labs Private Limited** (since Jan 2026)
-- ☁️ Completed Cloud DevOps Engineering training at **Cloudblitz** (Jan–Jun 2026)
+- 🔧 Cloud & DevOps Intern at **Hisan Labs Private Limited** (since Nov 2025)
+- ☁️ Completed Cloud DevOps Engineering training at **Cloudblitz** (Jan–Jun 2025)
 - 🎓 B.E. in Electronics and Telecommunication — Sant Gadge Baba Amravati University
 - 📚 AWS Certified Cloud Practitioner (CLF-C02) — coursework complete, exam upcoming
 - 🌱 Currently expanding into **Azure**, coming from an AWS-first background
